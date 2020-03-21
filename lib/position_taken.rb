@@ -1,3 +1,2 @@
 def position_taken?(board,index) # code your #position_taken? method here!
-array[index_number] == " "
 end
